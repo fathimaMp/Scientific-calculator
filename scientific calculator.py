@@ -11,7 +11,6 @@ root.configure(background = 'white')
 
 root.resizable(width=False, height=False)
 
-root.geometry("480x568+450+90")
 
 calc = Frame(root)
 
