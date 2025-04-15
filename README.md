@@ -20,10 +20,10 @@ Exponential: exp, expm1, e, pi, 2π, γ (gamma)
 
 Square root, power, and degree-radian conversions
 
-  🖥 Two modes: Standard and Scientific
+🖥 Two modes: Standard and Scientific
 
-  ✂️ Basic edit options: Cut, Copy, Paste (via menu)
+✂️ Basic edit options: Cut, Copy, Paste (via menu)
 
-  📦 Responsive layout and keyboard-friendly
+📦 Responsive layout and keyboard-friendly
 
-  🖱 User-friendly GUI with button click support
+🖱 User-friendly GUI with button click support
