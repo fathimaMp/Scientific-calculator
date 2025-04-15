@@ -1,5 +1,7 @@
 🧮 Scientific Calculator in Python (Tkinter)
-This is a simple but powerful Scientific Calculator application built using Python's Tkinter GUI library. It supports both standard arithmetic and advanced scientific functions.
+
+This is a simple but powerful Scientific Calculator application built using Python's Tkinter GUI library. 
+It supports both standard arithmetic and advanced scientific functions.
 
 💡 Features
 🧾 Basic arithmetic operations: +, -, ×, ÷, %
